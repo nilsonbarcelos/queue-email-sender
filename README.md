@@ -1,5 +1,6 @@
 # queue-email-sender
-Simple project to send email using a queue process
+Simple project to send email using a queue process.
+This project is based in available project on DIO platform (dio.me).
 
 
 ## Getting Started
